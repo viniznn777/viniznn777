@@ -1,12 +1,12 @@
 ### OLÁ EU SOU O VINICIUS KAUÃ
 
 - 🌱 Estudando JavaScript, Analise e desenvolvimento de sistemas,
-- 😄 Pronomes: Ele
+- 😄 Pronouns: Ele
 
 <div align="center">
   <a href="https://github.com/viniznn777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniznn777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniznn777&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="415px" src="https://github-readme-stats.vercel.app/api?username=viniznn777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniznn777&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
