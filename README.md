@@ -1,7 +1,6 @@
 ### OLÁ EU SOU O VINICIUS KAUÃ
 
-- 🌱 Estudando JavaScript, Analise e desenvolvimento de sistemas,
-- 😄 Pronomes: Ele
+- 🌱 Cursando Analise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/viniznn777">
